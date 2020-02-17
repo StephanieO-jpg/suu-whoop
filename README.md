@@ -1,3 +1,6 @@
+# "Does art imitate life or life imitates art?"
+****************************************************************************************************************************
+
 # Artwork Classification 
 This repository will contain neural network image classification model 
 
