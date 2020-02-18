@@ -23,12 +23,16 @@ This dataset was obtained from Kaggle: https://www.kaggle.com/ikarus777/best-art
 
 # Environment and Tools
 
-Kaggle Notebook
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Scikit-learn
+1. Kaggle Notebook
+2. Numpy
+3. Pandas
+4. Seaborn
+5. Matplotlib
+6. Scikit-learn
+7. Keras
+8. Tensorflow
 
 # Bugs
+
 # License Information
+copyright (c), 2020
